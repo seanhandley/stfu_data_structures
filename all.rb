@@ -1,0 +1,6 @@
+require_relative './lib/array'
+require_relative './lib/binary_tree'
+require_relative './lib/hash'
+require_relative './lib/linked_list'
+require_relative './lib/queue'
+require_relative './lib/stack'
